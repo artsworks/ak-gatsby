@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-stellar",
-  "description": "Gatsby Starter - Stellar by HTML5 UP",
+  "name": "arthurku-gatsby-stellar",
+  "description": "ArthurKu - Gatsby Stellar",
   "version": "1.0.0",
-  "author": "Hunter Chang",
+  "author": "Arthur Kusumadjaja",
   "dependencies": {
     "gatsby": "^1.9.235",
     "gatsby-image": "^1.0.42",
@@ -21,15 +21,17 @@
     "react-scrollspy": "^3.3.5",
     "react-waypoint": "^8.0.1"
   },
-  "homepage": "https://github.com/ChangoMan/gatsby-starter-stellar",
+  "homepage": "https://arthurku.com/",
   "keywords": [
-    "gatsby"
+    "arthurku",
+    "gatsby",
+    "stellar"
   ],
   "license": "MIT",
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ChangoMan/gatsby-starter-stellar.git"
+    "url": "https://github.com/artsworks/ak-gatsby.git"
   },
   "scripts": {
     "dev": "gatsby develop",
