@@ -134,8 +134,8 @@ class Index extends React.Component {
             </header>
             <footer className="major">
               <ul className="actions">
-                <li><Link to="http://portraiture.arthurku.com/" className="button">Portraiture</Link></li>
-                <li><Link to="https://theknot.arthurku.com/" className="button">Couple & Wedding</Link></li>
+                <li><a href="http://portraiture.arthurku.com/" className="button">Portraiture</a></li>
+                <li><a href="https://theknot.arthurku.com/" className="button">Couple & Wedding</a></li>
               </ul>
             </footer>
           </section>

@@ -18,7 +18,7 @@ const Footer = (props) => (
                 <dt>Address</dt>
                 <dd>Melbourne &bull; Australia</dd>
                 <dt>Email</dt>
-                <dd><a href="#">hello@arthurku.com</a></dd>
+                <dd><a href="mailto:hello@arthurku.com">hello@arthurku.com</a></dd>
             </dl>
             <ul className="icons">
                 {/* <li><a href="https://twitter.com/arts_works" className="icon fa-twitter alt"><span className="label">Twitter</span></a></li> */}
